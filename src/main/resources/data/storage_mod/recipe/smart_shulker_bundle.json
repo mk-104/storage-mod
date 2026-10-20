@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "SLS",
+    "LBL",
+    "SLS"
+  ],
+  "key": {
+    "S": "minecraft:string",
+    "L": "minecraft:leather",
+    "B": "#minecraft:shulker_boxes"
+  },
+  "result": {
+    "id": "storage_mod:smart_shulker_bundle",
+    "count": 1
+  }
+}
