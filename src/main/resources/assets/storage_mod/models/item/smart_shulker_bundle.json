@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "storage_mod:item/smart_shulker_bundle"
+  }
+}

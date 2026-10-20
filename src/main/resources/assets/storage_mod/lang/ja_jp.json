@@ -1,0 +1,19 @@
+{
+  "itemGroup.storage_mod": "ストレージMod",
+  "item.storage_mod.deep_monopod": "ディープ・モノポッド",
+  "item.storage_mod.smart_shulker_bundle": "スマート・シュルカーバンドル",
+  "item.storage_mod.armory_cube": "アーマリー・キューブ",
+
+  "tooltip.storage_mod.slots_used": "収納スロット: %d / %d",
+  "tooltip.storage_mod.deep_monopod.empty": "収納アイテム: 空（未登録）",
+  "tooltip.storage_mod.deep_monopod.desc1": "§71種類のアイテムを最大9999個まで吸い込んで保管します",
+  "tooltip.storage_mod.deep_monopod.help_pickup": "§8・インベントリにあると該当アイテムを拾った時に自動回収",
+  "tooltip.storage_mod.deep_monopod.help_place": "§8・ブロックアイテム収納時：右クリックで直接1個ずつ設置可能",
+  "tooltip.storage_mod.deep_monopod.help_extract": "§8・スニーク+右クリックで1スタック取り出し / オフハンドを持って右クリックで預け入れ",
+  "tooltip.storage_mod.smart_shulker_bundle.desc": "§7設置不要で開ける27スロットのポータブル収納袋",
+  "tooltip.storage_mod.armory_cube.desc": "§dスタック不可能な武器・ツール・防具専用の武器庫キューブ",
+
+  "message.storage_mod.deep_monopod.extracted": "%d個の%sを取り出しました。",
+  "message.storage_mod.deep_monopod.deposited": "%d個の%sを預け入れました。",
+  "message.storage_mod.deep_monopod.empty": "モノポッド内にアイテムがありません。"
+}

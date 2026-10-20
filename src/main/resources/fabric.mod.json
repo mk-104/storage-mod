@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "id": "storage_mod",
+  "version": "${version}",
+  "name": "Storage Mod",
+  "description": "Special storage items mod adding Deep Monopod, Smart Shulker Bundle, and Armory Cube.",
+  "authors": [
+    "Modder"
+  ],
+  "contact": {},
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.example.storagemod.StorageMod"
+    ],
+    "client": [
+      "com.example.storagemod.StorageModClient"
+    ]
+  },
+  "mixins": [
+    "storage_mod.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.19.5",
+    "minecraft": "~26.3",
+    "java": ">=25",
+    "fabric-api": "*"
+  }
+}
